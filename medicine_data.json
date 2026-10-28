@@ -1,0 +1,389 @@
+[
+  {
+    "name": "Paracetamol",
+    "generic_name": "Paracetamol (acetaminophen)",
+    "active_ingredient": "Paracetamol",
+    "chemical_formula": "C8H9NO2",
+    "medicine_class": "Analgesic and antipyretic",
+    "general_purpose": "Used for temporary relief of pain and reduction of fever.",
+    "common_uses": [
+      "Temporary relief of mild to moderate pain",
+      "Reduction of fever"
+    ],
+    "general_action": "It reduces pain and fever. Its exact mechanism is not fully understood.",
+    "general_warnings": [
+      "Taking too much can cause serious liver damage.",
+      "Some combination medicines also contain paracetamol, so ingredient labels matter."
+    ],
+    "common_side_effects": [
+      "Side effects are uncommon when used as directed; serious allergic reactions can occur."
+    ],
+    "availability_note": "Availability and prescription requirements can vary by product and location.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Acetaminophen",
+        "url": "https://medlineplus.gov/druginfo/meds/a681004.html"
+      },
+      {
+        "title": "PubChem: Acetaminophen",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/#query=acetaminophen"
+      }
+    ]
+  },
+  {
+    "name": "Ibuprofen",
+    "generic_name": "Ibuprofen",
+    "active_ingredient": "Ibuprofen",
+    "chemical_formula": "C13H18O2",
+    "medicine_class": "Nonsteroidal anti-inflammatory drug (NSAID)",
+    "general_purpose": "Used to relieve pain, fever, and inflammation.",
+    "common_uses": [
+      "Temporary relief of pain",
+      "Reduction of fever",
+      "Relief of inflammation"
+    ],
+    "general_action": "It reduces the production of prostaglandins, substances involved in pain, fever, and inflammation.",
+    "general_warnings": [
+      "NSAIDs can cause stomach ulcers or bleeding and may increase cardiovascular or kidney risks in some people.",
+      "Risks depend on personal health and other medicines."
+    ],
+    "common_side_effects": [
+      "Stomach discomfort",
+      "Nausea",
+      "Heartburn"
+    ],
+    "availability_note": "Availability and prescription requirements can vary by product strength and location.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Ibuprofen",
+        "url": "https://medlineplus.gov/druginfo/meds/a682159.html"
+      },
+      {
+        "title": "PubChem: Ibuprofen",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/#query=ibuprofen"
+      }
+    ]
+  },
+  {
+    "name": "Aspirin",
+    "generic_name": "Aspirin (acetylsalicylic acid)",
+    "active_ingredient": "Acetylsalicylic acid",
+    "chemical_formula": "C9H8O4",
+    "medicine_class": "Salicylate and nonsteroidal anti-inflammatory drug (NSAID)",
+    "general_purpose": "Used for pain and fever; some formulations are used under clinical guidance for cardiovascular purposes.",
+    "common_uses": [
+      "Temporary relief of pain",
+      "Reduction of fever"
+    ],
+    "general_action": "It reduces prostaglandin production and also affects platelet activity.",
+    "general_warnings": [
+      "It can irritate the stomach and increase bleeding risk.",
+      "Aspirin use in children or teenagers with viral illnesses has been associated with Reye syndrome."
+    ],
+    "common_side_effects": [
+      "Stomach irritation",
+      "Heartburn",
+      "Increased tendency to bruise or bleed"
+    ],
+    "availability_note": "Availability and prescription requirements can vary by formulation and location.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Aspirin",
+        "url": "https://medlineplus.gov/druginfo/meds/a682878.html"
+      },
+      {
+        "title": "PubChem: Aspirin",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/#query=aspirin"
+      }
+    ]
+  },
+  {
+    "name": "Amoxicillin",
+    "generic_name": "Amoxicillin",
+    "active_ingredient": "Amoxicillin",
+    "chemical_formula": "C16H19N3O5S",
+    "medicine_class": "Penicillin-type antibiotic",
+    "general_purpose": "An antibiotic used for certain bacterial infections.",
+    "common_uses": [
+      "Treatment of certain infections caused by susceptible bacteria"
+    ],
+    "general_action": "It interferes with the formation of bacterial cell walls.",
+    "general_warnings": [
+      "It does not treat viral infections such as colds or influenza.",
+      "Allergic reactions can occur, particularly in people with penicillin allergy."
+    ],
+    "common_side_effects": [
+      "Nausea",
+      "Diarrhea",
+      "Skin rash"
+    ],
+    "availability_note": "Prescription requirements vary by location; antibiotic use should be guided by a qualified healthcare professional.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Amoxicillin",
+        "url": "https://medlineplus.gov/druginfo/meds/a685001.html"
+      },
+      {
+        "title": "PubChem: Amoxicillin",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/#query=amoxicillin"
+      }
+    ]
+  },
+  {
+    "name": "Azithromycin",
+    "generic_name": "Azithromycin",
+    "active_ingredient": "Azithromycin",
+    "chemical_formula": "C38H72N2O12",
+    "medicine_class": "Macrolide antibiotic",
+    "general_purpose": "An antibiotic used for certain bacterial infections.",
+    "common_uses": [
+      "Treatment of certain infections caused by susceptible bacteria"
+    ],
+    "general_action": "It interferes with bacterial protein production by binding to the bacterial 50S ribosomal subunit.",
+    "general_warnings": [
+      "It does not treat viral infections such as colds or influenza.",
+      "It can affect heart rhythm in some people and can interact with other medicines."
+    ],
+    "common_side_effects": [
+      "Diarrhea",
+      "Nausea",
+      "Abdominal discomfort"
+    ],
+    "availability_note": "Prescription requirements vary by location; antibiotic use should be guided by a qualified healthcare professional.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Azithromycin",
+        "url": "https://medlineplus.gov/druginfo/meds/a697037.html"
+      },
+      {
+        "title": "PubChem: Azithromycin",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/#query=azithromycin"
+      }
+    ]
+  },
+  {
+    "name": "Cetirizine",
+    "generic_name": "Cetirizine",
+    "active_ingredient": "Cetirizine",
+    "chemical_formula": "C21H25ClN2O3",
+    "medicine_class": "Antihistamine",
+    "general_purpose": "Used to relieve symptoms associated with allergies.",
+    "common_uses": [
+      "Relief of sneezing, runny nose, itchy or watery eyes, and itching"
+    ],
+    "general_action": "It blocks histamine at H1 receptors; histamine contributes to many allergy symptoms.",
+    "general_warnings": [
+      "It can cause drowsiness in some people.",
+      "Alcohol and other medicines that cause drowsiness may increase this effect."
+    ],
+    "common_side_effects": [
+      "Drowsiness",
+      "Fatigue",
+      "Dry mouth"
+    ],
+    "availability_note": "Availability and prescription requirements can vary by product and location.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Cetirizine",
+        "url": "https://medlineplus.gov/druginfo/meds/a697038.html"
+      },
+      {
+        "title": "PubChem: Cetirizine",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/#query=cetirizine"
+      }
+    ]
+  },
+  {
+    "name": "Loratadine",
+    "generic_name": "Loratadine",
+    "active_ingredient": "Loratadine",
+    "chemical_formula": "C22H23ClN2O2",
+    "medicine_class": "Antihistamine",
+    "general_purpose": "Used to relieve symptoms associated with allergies.",
+    "common_uses": [
+      "Relief of sneezing, runny nose, itchy or watery eyes, and itching"
+    ],
+    "general_action": "It blocks histamine at H1 receptors; histamine contributes to many allergy symptoms.",
+    "general_warnings": [
+      "Drowsiness is possible, though it is generally less likely than with some older antihistamines."
+    ],
+    "common_side_effects": [
+      "Headache",
+      "Drowsiness",
+      "Dry mouth"
+    ],
+    "availability_note": "Availability and prescription requirements can vary by product and location.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Loratadine",
+        "url": "https://medlineplus.gov/druginfo/meds/a682545.html"
+      },
+      {
+        "title": "PubChem: Loratadine",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/#query=loratadine"
+      }
+    ]
+  },
+  {
+    "name": "Omeprazole",
+    "generic_name": "Omeprazole",
+    "active_ingredient": "Omeprazole",
+    "chemical_formula": "C17H19N3O3S",
+    "medicine_class": "Proton pump inhibitor (PPI)",
+    "general_purpose": "Reduces stomach acid production.",
+    "common_uses": [
+      "Treatment of conditions involving excess stomach acid, including gastroesophageal reflux"
+    ],
+    "general_action": "It blocks proton pumps in the stomach lining that release acid.",
+    "general_warnings": [
+      "Long-term use may have risks and should be discussed with a healthcare professional.",
+      "Persistent or severe symptoms warrant professional assessment."
+    ],
+    "common_side_effects": [
+      "Headache",
+      "Abdominal pain",
+      "Nausea",
+      "Diarrhea"
+    ],
+    "availability_note": "Availability and prescription requirements can vary by product, duration, and location.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Omeprazole",
+        "url": "https://medlineplus.gov/druginfo/meds/a693050.html"
+      },
+      {
+        "title": "PubChem: Omeprazole",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/#query=omeprazole"
+      }
+    ]
+  },
+  {
+    "name": "Pantoprazole",
+    "generic_name": "Pantoprazole",
+    "active_ingredient": "Pantoprazole",
+    "chemical_formula": "C16H15F2N3O4S",
+    "medicine_class": "Proton pump inhibitor (PPI)",
+    "general_purpose": "Reduces stomach acid production.",
+    "common_uses": [
+      "Treatment of conditions involving excess stomach acid, including gastroesophageal reflux"
+    ],
+    "general_action": "It blocks proton pumps in the stomach lining that release acid.",
+    "general_warnings": [
+      "Long-term use may have risks and should be discussed with a healthcare professional.",
+      "Persistent or severe symptoms warrant professional assessment."
+    ],
+    "common_side_effects": [
+      "Headache",
+      "Abdominal discomfort",
+      "Diarrhea"
+    ],
+    "availability_note": "Availability and prescription requirements can vary by product and location.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Pantoprazole",
+        "url": "https://medlineplus.gov/druginfo/meds/a601246.html"
+      },
+      {
+        "title": "PubChem: Pantoprazole",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/#query=pantoprazole"
+      }
+    ]
+  },
+  {
+    "name": "Metformin",
+    "generic_name": "Metformin",
+    "active_ingredient": "Metformin",
+    "chemical_formula": "C4H11N5",
+    "medicine_class": "Biguanide antihyperglycemic medicine",
+    "general_purpose": "Used to help manage blood glucose in type 2 diabetes.",
+    "common_uses": [
+      "Management of type 2 diabetes, alongside an overall care plan"
+    ],
+    "general_action": "It lowers glucose production by the liver and improves the body's response to insulin.",
+    "general_warnings": [
+      "A rare but serious condition called lactic acidosis is associated with metformin.",
+      "Kidney function and other health factors can affect its suitability."
+    ],
+    "common_side_effects": [
+      "Diarrhea",
+      "Nausea",
+      "Abdominal discomfort"
+    ],
+    "availability_note": "Prescription requirements vary by location.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Metformin",
+        "url": "https://medlineplus.gov/druginfo/meds/a696005.html"
+      },
+      {
+        "title": "PubChem: Metformin",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/#query=metformin"
+      }
+    ]
+  },
+  {
+    "name": "Amlodipine",
+    "generic_name": "Amlodipine",
+    "active_ingredient": "Amlodipine",
+    "chemical_formula": "C20H25ClN2O5",
+    "medicine_class": "Calcium channel blocker",
+    "general_purpose": "Used to treat high blood pressure and certain types of angina.",
+    "common_uses": [
+      "Treatment of high blood pressure",
+      "Management of certain types of chest pain (angina)"
+    ],
+    "general_action": "It relaxes blood vessels by blocking calcium entry into certain muscle cells.",
+    "general_warnings": [
+      "It may cause dizziness or swelling; individual risks and medicine changes should be discussed with a healthcare professional."
+    ],
+    "common_side_effects": [
+      "Swelling of the ankles or feet",
+      "Dizziness",
+      "Flushing"
+    ],
+    "availability_note": "Prescription requirements vary by location.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Amlodipine",
+        "url": "https://medlineplus.gov/druginfo/meds/a692044.html"
+      },
+      {
+        "title": "PubChem: Amlodipine",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/#query=amlodipine"
+      }
+    ]
+  },
+  {
+    "name": "Atorvastatin",
+    "generic_name": "Atorvastatin",
+    "active_ingredient": "Atorvastatin",
+    "chemical_formula": "C33H35FN2O5",
+    "medicine_class": "Statin (HMG-CoA reductase inhibitor)",
+    "general_purpose": "Used to lower cholesterol and reduce certain cardiovascular risks.",
+    "common_uses": [
+      "Management of high cholesterol",
+      "Reduction of certain risks of heart attack and stroke"
+    ],
+    "general_action": "It inhibits HMG-CoA reductase, an enzyme involved in cholesterol production in the liver.",
+    "general_warnings": [
+      "Unexplained muscle pain or weakness can require prompt professional assessment.",
+      "Pregnancy and some other health circumstances affect its use."
+    ],
+    "common_side_effects": [
+      "Diarrhea",
+      "Joint pain",
+      "Muscle aches"
+    ],
+    "availability_note": "Prescription requirements vary by location.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Atorvastatin",
+        "url": "https://medlineplus.gov/druginfo/meds/a600045.html"
+      },
+      {
+        "title": "PubChem: Atorvastatin",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/#query=atorvastatin"
+      }
+    ]
+  }
+]
